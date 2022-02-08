@@ -9,11 +9,10 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
   
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working as a Software Engineer
-- 📚 &nbsp; I am in my final year of my bachelor degree
+- 📚 &nbsp; I am in my final year of bachelor's degree
 - 🌱 &nbsp; I’m currently learning NLP; 
 - 💬 &nbsp; I enjoy learning languages;
 - 🎯 &nbsp; 2022 Goals: Finish my bachelor degree and apply for masters
-
 <br>
 
 ### 🔨 Languages and Tools:
