@@ -22,7 +22,6 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="left" alt="c" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c/c.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <br>
 <br>
@@ -32,20 +31,24 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img align="left" alt="bash" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" height ="42px" src="https://img.icons8.com/color/96/000000/linux.png"></a>
 
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/firebase.svg" alt="firebase" width='26px'/></code>](https://firebase.google.com/)
 #### Web Development
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/spring.svg" alt="spring" width='26px'/></code>](https://spring.io/projects/spring-boot)
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/flask.svg" alt="flask" width='26px'/></code>](https://flask.palletsprojects.com/en/2.0.x/)
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/vue.svg" alt="vue" width='26px'/></code>](https://vuejs.org/)
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/mongodb.svg" alt="mongodb" width='26px'/></code>](https://www.mongodb.com/)
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/mysql.svg" alt="mysql" width='26px'/></code>](https://www.mysql.com/)
-
+<a href="https://pt.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg"></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg"></a>
 <br>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<br>
+<a href="https://vuejs.org" target="_blank"><img align="left" alt="Vue.js" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/vue/vue.svg"></a>
+<a href="https://angularjs.org/" target="_blank"><img align="left" alt="Angular.js" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/angular/angular.svg"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height ="42px" src="https://cdn.worldvectorlogo.com/logos/django.svg"></a>
+<br>
+<br>
+<a href="https://spring.io/projects/spring-framework" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/spring/spring.svg"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="Mongodb" height ="42px" src="https://www.pxpng.com/public/uploads/preview/-11608989692djipisyd1t.png"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="42px" src="https://pngimg.com/uploads/mysql/small/mysql_PNG10.png"></a>
+<br>
+<br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-
-
+<br><br>
 [<code><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width='26px'/></code>](https://pandas.pydata.org/)
 <br>
