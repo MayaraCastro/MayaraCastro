@@ -17,13 +17,13 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <br>
 
 ### 🔨 Languages and Tools:
-[<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" width='26px'/></code>](https://en.wikipedia.org/wiki/C_(programming_language))
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="left" alt="c" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <br>
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/docker.svg" alt="docker" width='26px'/></code>](https://www.docker.com/)
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/nginx.svg" alt="nginx" width='26px'/></code>](https://www.nginx.com/)
