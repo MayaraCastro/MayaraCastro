@@ -25,7 +25,7 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <br>
 <br>
-
+#### Devops
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="https://www.nginx.com/" target="_blank"><img align="left" alt="nginx" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/nginx/nginx.svg"></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img align="left" alt="bash" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bash/bash-colored.svg"></a>
