@@ -30,7 +30,8 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://www.nginx.com/" target="_blank"><img align="left" alt="nginx" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/nginx/nginx.svg"></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img align="left" alt="bash" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" height ="42px" src="https://img.icons8.com/color/96/000000/linux.png"></a>
-
+<br>
+<br>
 #### Web Development
 <a href="https://pt.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg"></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg"></a>
@@ -46,6 +47,7 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="42px" src="https://pngimg.com/uploads/mysql/small/mysql_PNG10.png"></a>
 <br>
 <br>
+#### Other tools
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
