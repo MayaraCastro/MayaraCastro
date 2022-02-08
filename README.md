@@ -5,7 +5,7 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MayaraCastro/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MayaraCastro/MayaraCastro/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working as a Software Engineer
@@ -25,21 +25,31 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
+
+[<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" width='26px'/></code>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width='26px'/></code>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="java" width='26px'/></code>](https://www.java.com/en/)
+[<code><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="python" width='26px'/></code>](https://www.python.org/)
+[<code><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript" width='26px'/></code>](https://www.javascript.com/)
+
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/docker.svg" alt="docker" width='26px'/></code>](https://www.docker.com/)
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/nginx.svg" alt="nginx" width='26px'/></code>](https://www.nginx.com/)
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/heroku.svg" alt="heroku" width='26px'/></code>](https://www.heroku.com/)
+[<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="bash script" width='26px'/></code>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<code><img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width='26px'/></code>](https://www.kernel.org/)
+
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/firebase.svg" alt="firebase" width='26px'/></code>](https://firebase.google.com/)
+#### Web Development
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/spring.svg" alt="spring" width='26px'/></code>](https://spring.io/projects/spring-boot)
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/flask.svg" alt="flask" width='26px'/></code>](https://flask.palletsprojects.com/en/2.0.x/)
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/vue.svg" alt="vue" width='26px'/></code>](https://vuejs.org/)
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/mongodb.svg" alt="mongodb" width='26px'/></code>](https://www.mongodb.com/)
+[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/mysql.svg" alt="mysql" width='26px'/></code>](https://www.mysql.com/)
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/MayaraCastro/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/MayaraCastro/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
+[<code><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width='26px'/></code>](https://pandas.pydata.org/)
 <br>
