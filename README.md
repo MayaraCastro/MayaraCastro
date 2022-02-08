@@ -25,10 +25,11 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <br>
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/docker.svg" alt="docker" width='26px'/></code>](https://www.docker.com/)
-[<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/nginx.svg" alt="nginx" width='26px'/></code>](https://www.nginx.com/)
-[<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="bash script" width='26px'/></code>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[<code><img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width='26px'/></code>](https://www.kernel.org/)
+
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/docker/docker.svg"></a>
+<a href="https://www.nginx.com/" target="_blank"><img align="left" alt="nginx" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/nginx/nginx.svg"></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img align="left" alt="bash" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bash/bash-colored.svg"></a>
+<a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" height ="42px" src="https://img.icons8.com/color/96/000000/linux.png"></a>
 
 [<code><img src="https://raw.githubusercontent.com/fabioafreitas/fabioafreitas/main/svgs/firebase.svg" alt="firebase" width='26px'/></code>](https://firebase.google.com/)
 #### Web Development
