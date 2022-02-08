@@ -30,7 +30,6 @@ I am a Computer science student, Full Stack web developer and a ML learner. I li
 <a href="https://www.nginx.com/" target="_blank"><img align="left" alt="nginx" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/nginx/nginx.svg"></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img align="left" alt="bash" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" height ="42px" src="https://img.icons8.com/color/96/000000/linux.png"></a>
-#<a href="https://docs.gitlab.com/ee/ci/" target="_blank"><img align="left" alt="Gitlab CICD" height ="42px" src="https://www.aubay.com/wp-content/uploads/2020/06/home-blog.png"></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></a>
 
 <br>
