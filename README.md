@@ -1,18 +1,18 @@
 ## Hey 👋, I'm Mayara!
 <a href='https://www.linkedin.com/in/mayara-castro/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-I am a Computer science student, Full Stack web developer and a ML learner. I like colaborating in projects, exchanging knowledge and solving problems!🛠️
+I am a Computer science Master student, Full Stack web developer and a ML learner. I like colaborating in projects, exchanging knowledge and solving problems!🛠️
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/b7e84cd7df9d883ebab3618b73506c04d2b867b5249291268930f0ab1f02e2e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966" width="360px"/>
   
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working as a Software Engineer
-- 📚 &nbsp; I am in my final year of bachelor's degree
+- 🔭 &nbsp; I’m currently working as a Full Stack developer
+- 📚 &nbsp; I am in my first year of master's degree
 - 🌱 &nbsp; I’m currently learning NLP; 
 - 💬 &nbsp; I enjoy learning languages;
-- 🎯 &nbsp; 2022 Goals: Finish my bachelor degree and apply for masters
+- 🎯 &nbsp; 2023 Goals: Get accepted in Masters in France ✅
 <br>
 
 ### 🔨 Languages and Tools:
